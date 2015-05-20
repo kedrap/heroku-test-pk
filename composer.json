@@ -12,9 +12,6 @@
         "php": ">=5.3.3"
     },
     "require-dev": {
-        "heroku/heroku-buildpack-php": "*",
-        "newrelic": "*"
+        "heroku/heroku-buildpack-php": "*"
     }
 }
-
-        
