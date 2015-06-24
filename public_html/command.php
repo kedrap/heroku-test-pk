@@ -11,4 +11,3 @@ for ($nr = 0; $nr < 150; $nr++) {
 
     newrelic_end_transaction('PHP Application on Heroku');
 }
-
